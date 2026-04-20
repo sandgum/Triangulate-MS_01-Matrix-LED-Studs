@@ -33,6 +33,11 @@ Tiny 10x10mm ear studs (inspired by Mitxela) with 16 LEDs on each, arranged in a
 
 *3D Model (Top Side)*
 
+### Schematic (Charging Board)
+<img width="2199" height="1550" alt="Screenshot 2026-04-20 171548" src="https://github.com/user-attachments/assets/30e58d33-703d-444e-9a7f-0eeb306f8c59" />
+
+### PCB Layout (Charging Board) (Coming soon!)
+
 ## Enclosure
 ### Overview
 * CNC stainless steel construction
