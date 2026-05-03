@@ -5,7 +5,7 @@ Tiny 10x10mm ear studs (inspired by Mitxela) with 16 LEDs on each, arranged in a
 
 <img width="811" height="785" alt="Screenshot 2026-04-04 at 11 23 14 am" src="https://github.com/user-attachments/assets/c3880b61-a608-47b6-987e-57b682025fe8" />
 
-## PCB
+## PCB (Studs)
 ### Overview
 * 4-layer double-stacked rigid PCB (8 layers when assembled)
 * Matrix on one "part" of PCB, other electronics on other "part"
@@ -13,10 +13,10 @@ Tiny 10x10mm ear studs (inspired by Mitxela) with 16 LEDs on each, arranged in a
 * 0.4mm thickness, 0.8mm total stacked thickness
 * Features 1mm pads for programming, power pins
 
-### Schematic (Studs)
+### Schematic
 <img width="1377" height="977" alt="Screenshot 2026-04-04 at 11 30 57 am" src="https://github.com/user-attachments/assets/be50bc5f-8143-44bf-8060-85f74ffda779" />
 
-### PCB Layout (Studs)
+### PCB Layout
 <img width="807" height="506" alt="Screenshot 2026-04-04 at 11 31 59 am" src="https://github.com/user-attachments/assets/d1f7e6fc-dc4a-4f62-be1b-58509b80d32c" />
 
 *Top Layer*
@@ -33,13 +33,31 @@ Tiny 10x10mm ear studs (inspired by Mitxela) with 16 LEDs on each, arranged in a
 
 *3D Model (Top Side)*
 
-### Schematic (Charging Board)
-<img width="2199" height="1550" alt="Screenshot 2026-04-20 171548" src="https://github.com/user-attachments/assets/30e58d33-703d-444e-9a7f-0eeb306f8c59" />
+## PCB (Charging Board)
+## Overview
+* 4-layer double-stacked rigid PCB (8 layers when assembled)
+* Side 1:
+*   Battery charging circuitry for two batteries (fuel gauge and charger)
+*   USB-C Port
+*   ATMega328P microcontroller for controlling lights
+* Side 2:
+*   9x WS2812B 2mm NeoPixel Lights
+*   Reset SPDT switch for MCU
 
-### PCB Layout (Charging Board) (Coming soon!)
+### Schematic
+<img width="1223" height="841" alt="Screenshot 2026-05-03 at 11 30 13 am" src="https://github.com/user-attachments/assets/ff812b4c-9c57-48fc-9fc4-8ad9123b0731" />
+
+### PCB Layout
+<img width="923" height="904" alt="Screenshot 2026-05-03 at 11 30 37 am" src="https://github.com/user-attachments/assets/020b6ab2-662d-4689-9d53-8e2b851e41a3" />
+
+*Top Layer*
+
+<img width="915" height="902" alt="Screenshot 2026-05-03 at 11 31 29 am" src="https://github.com/user-attachments/assets/eb95296c-172b-4c65-8fe0-f0c2ff354feb" />
+
+*Bottom Layer*
 
 ## Enclosure
-### Overview
+### Overview (Studs)
 * CNC stainless steel construction
 * Two-part design, one for battery side, one for top side
 * Translucent PP diffuser over LED matrix
@@ -47,8 +65,18 @@ Tiny 10x10mm ear studs (inspired by Mitxela) with 16 LEDs on each, arranged in a
 * Permanent power wire going from battery side to top side in accent colour
 * Points on back of top side for rotational stability while on ear
 
-### Images
+### Overview (Charging Dock)
+* CNC steel upper construction, 3D-printed plastic lower construction
+* Battery charging GND connection made through upper case, positive connection made through insulated copper springs
+* Magnets to secure studs
+* USB-C charging, SoC indication through adressable RGB strip
+
+### Images (Studs)
 <img width="612" height="696" alt="Screenshot 2026-04-04 at 11 36 01 am" src="https://github.com/user-attachments/assets/fa327f75-bff2-49ac-ae74-bd1219aa985a" />
 <img width="623" height="658" alt="Screenshot 2026-04-04 at 11 36 17 am" src="https://github.com/user-attachments/assets/edc9808b-fe49-4375-b50c-51c7dd21a559" />
 <img width="416" height="454" alt="Screenshot 2026-04-04 at 11 36 41 am" src="https://github.com/user-attachments/assets/fbdad625-be97-4f9e-9be2-0c793f9924e7" />
 <img width="599" height="633" alt="Screenshot 2026-04-04 at 11 36 59 am" src="https://github.com/user-attachments/assets/05d7dde4-ab0c-4fc0-9761-213678e0bd49" />
+
+### Images (Charging Dock) (Coming soon)
+
+## Bill of Materials (Coming soon)
