@@ -56,6 +56,14 @@ Tiny 10x10mm ear studs (inspired by Mitxela) with 16 LEDs on each, arranged in a
 
 *Bottom Layer*
 
+<img width="899" height="584" alt="Screenshot 2026-05-03 at 12 21 00 pm" src="https://github.com/user-attachments/assets/4bc29ef1-356e-4a64-96c2-4679cf67813a" />
+
+*3D Model (Top Side)*
+
+<img width="783" height="559" alt="Screenshot 2026-05-03 at 12 21 12 pm" src="https://github.com/user-attachments/assets/1c1fd2a4-d0b9-454c-ac09-a778edeec776" />
+
+*3D Model (Bottom Side)*
+
 ## Enclosure
 ### Overview (Studs)
 * CNC stainless steel construction
@@ -77,6 +85,11 @@ Tiny 10x10mm ear studs (inspired by Mitxela) with 16 LEDs on each, arranged in a
 <img width="416" height="454" alt="Screenshot 2026-04-04 at 11 36 41 am" src="https://github.com/user-attachments/assets/fbdad625-be97-4f9e-9be2-0c793f9924e7" />
 <img width="599" height="633" alt="Screenshot 2026-04-04 at 11 36 59 am" src="https://github.com/user-attachments/assets/05d7dde4-ab0c-4fc0-9761-213678e0bd49" />
 
-### Images (Charging Dock) (Coming soon)
+### Images (Charging Dock)
+<img width="767" height="590" alt="Screenshot 2026-05-03 at 12 22 40 pm" src="https://github.com/user-attachments/assets/5d49c6d4-0234-4c71-9019-87d99dd921d6" />
+<img width="783" height="629" alt="Screenshot 2026-05-03 at 12 23 12 pm" src="https://github.com/user-attachments/assets/b34ec335-1c4e-4ab9-b8f1-6681ee0bde60" />
+<img width="726" height="627" alt="Screenshot 2026-05-03 at 12 23 26 pm" src="https://github.com/user-attachments/assets/28aec886-8f76-46b0-9ff2-7645bc1b156b" />
+<img width="699" height="672" alt="Screenshot 2026-05-03 at 12 23 36 pm" src="https://github.com/user-attachments/assets/24175558-b038-4cfe-aca8-500618cab05d" />
+<img width="677" height="621" alt="Screenshot 2026-05-03 at 12 23 51 pm" src="https://github.com/user-attachments/assets/4f59ebe4-4606-49e2-8848-0e6da7fc3268" />
 
 ## Bill of Materials (Coming soon)
